@@ -19,7 +19,10 @@ I researched some online decompilers (also searched a little bit about the legal
 
 - I ended up downloading ILSpy 11.1 (open-source decompiler) 
 - I learnt that ILSpy would extract the code to about 85% percent of the original capacity as it would just change the variable names around a little for it to be more generic
-- Whilst exploring ILSpy, I ran into a bug that I ended up reporting
+- Whilst exploring ILSpy, I ran into a bug that I ended up reporting 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f15c6fa1-4ced-455f-a6ee-dd54ee4a2518" />
+
+
 
 ##Technical Skills:
 - C#
