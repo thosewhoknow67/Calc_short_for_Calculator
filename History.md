@@ -1,12 +1,12 @@
 # History
-- I made this file to document the history of this project. Its one of the earliest showcases of my coding journey and I've learnt more along the way when aiming to revisit this Year 12 project.
+I made this file to document the history of this project. Its one of the earliest showcases of my coding journey and I've learnt more along the way when aiming to revisit this Year 12 project.
 
 
 ## Sometime before __________
 
 ## Aug 1, 2025
 ### Intial file Upload  
-- I uploaded the executable file onto Github
+I uploaded the executable file onto Github
 
 ## Oct 24, 2026
 - Its been a year, and I finally decided to look back at my project to see my java code. However I noticed that I forgot to upload the source code to my Git
